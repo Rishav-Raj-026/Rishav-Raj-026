@@ -30,4 +30,5 @@ I am a data professional, completed my Master of Computer Applications (MCA), sp
 * **Data Manipulation:** Pandas, NumPy
 * **Tools:** Jupyter Notebook, Git/GitHub, Excel
 
-📫 **How to reach me:** [Insert your LinkedIn URL or Email here]
+📫 **How to reach me:** rishavraj0426@gmail.com
+
